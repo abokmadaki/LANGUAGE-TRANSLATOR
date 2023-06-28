@@ -1,8 +1,5 @@
 # LANGUAGE-TRANSLATOR
 
-```
-# Language Translator
-
 The Language Translator is a project aimed at providing a simple yet powerful tool for translating text between different languages. This project utilizes a pre-trained language model to achieve accurate and efficient translations.
 
 ## Features
@@ -97,6 +94,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you have any questions or suggestions regarding the Language Translator project, please feel free to contact us at [abokistifanusmadaki@gmail.com](mailto:abokistifanusmadaki@gmail.com).
 
-```
 
-You can customize and modify this README file according to your specific project requirements, adding additional sections or information as needed.
