@@ -14,7 +14,7 @@ The Language Translator is a project aimed at providing a simple yet powerful to
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/language-translator.git
+   git clone https://github.com/abokmadaki/language-translator.git
    ```
 
 2. Navigate to the project directory:
